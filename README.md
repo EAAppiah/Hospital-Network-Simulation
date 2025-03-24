@@ -1,4 +1,4 @@
-# Hospital Network Simulation
+# Hospital Network Simulation ✨
 
 A resource-efficient GNS3 simulation of a hospital network infrastructure using Cisco devices.
 
@@ -8,7 +8,7 @@ This project provides a comprehensive hospital network topology simulated in GNS
 
 ## Network Topology
 
-[![Hospital Network Topology](https://imgur.com/4XQyNOa "Hospital Network Simulation")]
+[![Hospital Network Topology](https://i.imgur.com/4XQyNOa.png "Hospital Network Simulation")]
 
 The network consists of several key components:
 
@@ -48,18 +48,18 @@ The network consists of several key components:
 
 ## Required GNS3 Appliances
 
-- Cisco 7200 Router v12.4(24)T5
-- Cisco IOU L2 Switches V15.1
-- FortiGate VM v7.0.9
-- VPCS (for endpoints)
+🖧 Cisco 7200 Router v12.4(24)T5
+🔀 Cisco IOU L2 Switches V15.1
+🔐 FortiGate VM v7.0.9
+💻 VPCS (for endpoints)
 
-## Installation
+## Installation 🚀
 
 
-1. Clone this repository
-2. Import the `.gns3project` file into GNS3
-3. Ensure you have the required appliance images
-4. Start the devices according to the recommended sequence in the documentation
+1. 📥 Clone this repository
+2. 📂 Import the `.gns3project` file into GNS3
+3. 📦 Ensure you have the required appliance images
+4. 🚀 Start the devices according to the recommended sequence in the documentation
 
 ## Usage
 
