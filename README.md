@@ -49,8 +49,11 @@ The network consists of several key components:
 ## Required GNS3 Appliances
 
 🖧 Cisco 7200 Router v12.4(24)T5
+
 🔀 Cisco IOU L2 Switches V15.1
+
 🔐 FortiGate VM v7.0.9
+
 💻 VPCS (for endpoints)
 
 ## Installation 🚀
